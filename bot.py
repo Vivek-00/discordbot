@@ -21,4 +21,4 @@ async def det(ctx,searchName):
                 (teamVar, teamVal),(gamesVar,gamesVal),(killsVar, killsVal),(deathVar, deathVal),(kdVar, kdVal),(mvpVar, mvpVal),(winsVar,winsVal),(lossVar,lossVal)=details.items()
                 await ctx.send(f'{teamVar} : {teamVal} \n {gamesVar} : {gamesVal} \n {killsVar} : {killsVal} \n {deathVar} : {deathVal} \n {kdVar} : {kdVal} \n {mvpVar} : {mvpVal} \n {winsVar} : {winsVal} \n {lossVar} : {lossVal} \n For more info visit www.brawlesports.com ')
 
-client.run('NTgzOTQ4NTY3NTI2Mzc1NDI1.XPDzqQ.9jBsn3ZIXaroDcayaAu3pbhzgoU')
+client.run(' ')
